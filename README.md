@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/globe.svg" width="100%" alt="" />
+  <img src="./assets/earth-f112d21.svg" width="100%" alt="" />
 </p>
 
 <p align="center">
