@@ -8,7 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=rfarris-dch&label=profile%20views&color=818cf8&style=flat-square" alt="profile views" />
 </p>
 
-<h3 align="center">🧰 toolbox</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg" />
+    <img alt="toolbox" src="./assets/toolbox-dark.svg" width="220" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,vue,java,py,bun,postgres,mysql,git&theme=dark" alt="TypeScript, Vue, Java, Python, Bun, PostgreSQL, MySQL, Git" />
@@ -17,7 +23,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/wave-light.svg" />
-  <img alt="" src="./assets/wave-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lamp-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/lamp-light.svg" />
+  <img alt="" src="./assets/lamp-dark.svg" width="100%" />
 </picture>
