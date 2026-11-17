@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://rfarris-dch.github.io/rfarris-dch/">
-  <img src="./assets/hero.svg" alt="rfarris-dch" width="100%">
+  <img src="./assets/hero.webp" alt="rfarris-dch" width="100%">
 </a>
 
 ### [▶ Launch the live particle engine](https://rfarris-dch.github.io/rfarris-dch/)
@@ -12,7 +12,7 @@ Scroll it. Push the pointer through it. Click for a shockwave.
 
 ---
 
-GitHub strips every script from a README, so the banner above is a hand-written animated SVG with no JavaScript. The real show lives in [`index.html`](./index.html), one self-contained file served by GitHub Pages.
+GitHub strips every script from a README, so the banner above is a frame-by-frame recording of the real engine, looped. The interactive version lives in [`index.html`](./index.html), one self-contained file served by GitHub Pages.
 
 ## What it does
 
